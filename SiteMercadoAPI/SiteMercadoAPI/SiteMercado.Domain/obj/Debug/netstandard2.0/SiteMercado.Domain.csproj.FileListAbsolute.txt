@@ -1,0 +1,9 @@
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\bin\Debug\netstandard2.0\SiteMercado.Domain.deps.json
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\bin\Debug\netstandard2.0\SiteMercado.Domain.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\obj\Debug\netstandard2.0\SiteMercado.Domain.AssemblyInfoInputs.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\obj\Debug\netstandard2.0\SiteMercado.Domain.AssemblyInfo.cs
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\bin\Debug\netstandard2.0\SiteMercado.Domain.pdb
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\obj\Debug\netstandard2.0\SiteMercado.Domain.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\obj\Debug\netstandard2.0\SiteMercado.Domain.pdb
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\obj\Debug\netstandard2.0\SiteMercado.Domain.csprojAssemblyReference.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Domain\obj\Debug\netstandard2.0\SiteMercado.Domain.csproj.CoreCompileInputs.cache

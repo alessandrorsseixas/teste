@@ -1,0 +1,37 @@
+Teste Validation
+{
+  "id": 1,
+  "code": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "name": "Camisa do Bahia",
+  "value": 199,
+  "image": "~/teste",
+  "active": true,
+  "createdUser": "alessandro",
+  "updatedUser": ""
+}
+
+
+[
+	{
+		op:"replace",
+		path:"/active"
+		value:false
+	
+	},
+	
+	{
+		op:"replace",
+		path:"/updatedUser"
+		value:"alessandro"
+	
+	}
+
+]
+
+
+
+
+The property 'Product._notificator' 
+is of an interface type ('INotificator').
+ If it is a navigation property manually configure the relationship 
+ for this property by casting it to a mapped entity type, otherwise ignore the property using the NotMappedAttribut

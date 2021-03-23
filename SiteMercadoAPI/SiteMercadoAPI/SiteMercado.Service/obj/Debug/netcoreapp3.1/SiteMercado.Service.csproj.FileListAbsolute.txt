@@ -1,0 +1,12 @@
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\bin\Debug\netcoreapp3.1\SiteMercado.Service.deps.json
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\bin\Debug\netcoreapp3.1\SiteMercado.Service.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\bin\Debug\netcoreapp3.1\SiteMercado.Service.pdb
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\bin\Debug\netcoreapp3.1\SiteMercado.Domain.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\bin\Debug\netcoreapp3.1\SiteMercado.Domain.pdb
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\obj\Debug\netcoreapp3.1\SiteMercado.Service.csprojAssemblyReference.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\obj\Debug\netcoreapp3.1\SiteMercado.Service.csproj.CoreCompileInputs.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\obj\Debug\netcoreapp3.1\SiteMercado.Service.AssemblyInfoInputs.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\obj\Debug\netcoreapp3.1\SiteMercado.Service.AssemblyInfo.cs
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\obj\Debug\netcoreapp3.1\SiteMercado.Service.csproj.CopyComplete
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\obj\Debug\netcoreapp3.1\SiteMercado.Service.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Service\obj\Debug\netcoreapp3.1\SiteMercado.Service.pdb

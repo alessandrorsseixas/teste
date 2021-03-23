@@ -1,0 +1,39 @@
+<div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+        <button type="button" class="btn btn-primary mb-2" [routerLink]="['/new']">
+            Novo Produto
+        </button>
+            <table>
+                <thead>
+                    <th>Produto</th>
+                    <th>Valor</th>
+                    <th></th>
+                    
+                </thead>    
+                <tbody>
+                     <tr *ngFor = "let product of products">
+                        <td>{{product.name}}</td>
+                        <td>{{product.value}}</td>
+                        <td>
+                            <button type="button" class="btn btn-success"  [routerLink]="['/edit', product.id]" class="btn btn-primary mr-1">
+                                Alterar
+                            </button>
+                            <button type="button" class="btn btn-danger" (click)="remove(product)">
+                                Excluir
+                            </button>
+                            <button type="button" [routerLink]="['/upload', product.id]" class="btn btn-primary mr-1">
+                                Imagem
+                            </button>
+
+                        </td>
+                        
+                     </tr>   
+
+                </tbody>
+
+            </table>
+
+    </div>
+
+</div>

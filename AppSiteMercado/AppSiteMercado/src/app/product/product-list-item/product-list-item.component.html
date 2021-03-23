@@ -1,0 +1,21 @@
+<div><img></div>
+<div [innerHTML]="product.name" class="product-item-name" ></div>
+<div [innerHTML]="product.value" class="product-item-value" ></div>
+<div [innerHTML]="product.active" class="product-item-active" ></div>
+<div>
+    <button type="button" [routerLink]="['/edit', product.id]" class="btn btn-primary mr-1">
+        Alterar
+    </button>
+    
+</div>
+<div>
+    <button type="button" class="btn btn-danger" (click)="remove(product)">
+        Excluir
+    </button>
+</div>
+<div>
+    <button type="button" [routerLink]="['/upload', product.id]" class="btn btn-primary mr-1">
+        Imagem
+    </button>
+    
+</div>

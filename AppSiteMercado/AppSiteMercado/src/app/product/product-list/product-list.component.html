@@ -1,0 +1,19 @@
+<h2>Produtos</h2>
+<hr />
+
+<button type="button" class="btn btn-primary mb-2" [routerLink]="['/new']">
+    Novo Produto
+</button>
+
+
+<section>
+    <div *ngIf="products.length == 0" class="alert alert-warning" role="alert">
+        Nenhum produto Cadastrado
+    </div>
+
+    <ul class="list-group" *ngIf="products.length > 0" >
+        <li class="list-group-item" *ngFor="let product of products">
+            <app-product-list-item [product]="product" class="product-item" (onDeleteProduct)="onProductDeleted($event)"></app-product-list-item>
+        </li>
+    </ul>
+</section>

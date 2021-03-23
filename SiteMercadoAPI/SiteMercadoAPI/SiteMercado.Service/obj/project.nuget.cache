@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RI5wWres8D2IlwxK2Qex2gPMXJ0uscsIyIsI8OBmAaejQgkFz5gWCx3zp8x7gp9+ASNls407XJRxtN65N/Xj+Q==",
+  "success": true,
+  "projectFilePath": "C:\\dados Alessandro\\GIT\\Estudos\\Site Mercado\\SiteMercadoAPI\\SiteMercadoAPI\\SiteMercado.Service\\SiteMercado.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessandro.seixas\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\alessandro.seixas\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

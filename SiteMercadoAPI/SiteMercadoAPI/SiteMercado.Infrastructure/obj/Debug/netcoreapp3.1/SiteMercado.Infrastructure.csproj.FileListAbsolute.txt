@@ -1,0 +1,15 @@
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\bin\Debug\netcoreapp3.1\SiteMercado.Infrastructure.deps.json
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\bin\Debug\netcoreapp3.1\SiteMercado.Infrastructure.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.csprojAssemblyReference.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.AssemblyInfoInputs.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.AssemblyInfo.cs
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\bin\Debug\netcoreapp3.1\SiteMercado.Infrastructure.runtimeconfig.json
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\bin\Debug\netcoreapp3.1\SiteMercado.Infrastructure.runtimeconfig.dev.json
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.genruntimeconfig.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\bin\Debug\netcoreapp3.1\SiteMercado.Infrastructure.pdb
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\bin\Debug\netcoreapp3.1\SiteMercado.Domain.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\bin\Debug\netcoreapp3.1\SiteMercado.Domain.pdb
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.csproj.CopyComplete
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.dll
+C:\dados Alessandro\GIT\Estudos\Site Mercado\SiteMercadoAPI\SiteMercadoAPI\SiteMercado.Infrastructure\obj\Debug\netcoreapp3.1\SiteMercado.Infrastructure.pdb
